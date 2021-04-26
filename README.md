@@ -1,7 +1,7 @@
 # ML_PCA_Cars_Dataset
 Implementing PCA (Principal Component Analysis ) to Cars Dataset. PCA is fundamentally a dimensionality reduction algorithm, but it can also be useful as a tool for visualization, for noise filtering, for feature extraction and engineering, and much more.
 
-PCA is used for 
-- PCA as dimensionality reduction
-- PCA for visualization: Hand-written digits
+## PCA is used for 
+- Dimensionality reduction
+- Visualization: Hand-written digits
 - Noise Filtering
